@@ -6,4 +6,4 @@
 	Prefix: +help
 	Code Language: Discord.js
 	Discord Support: https://dsc.gg/wayland-co
-
+	Replit: https://replit.com/@SimplyMagix/Wayland
